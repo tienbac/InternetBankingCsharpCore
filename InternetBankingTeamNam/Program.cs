@@ -17,14 +17,13 @@ namespace InternetBankingTeamNam
             MySqlTransaction trs = connection.BeginTransaction();
             // run
             Console.OutputEncoding = Encoding.UTF8;
-            Console.WriteLine("Open");
 
-
+            MenuSign mn = new MenuSign();
+            mn.Menu(cmd, trs);
             Console.ReadLine();
 
             // run
             connection.Close();
-            Console.WriteLine("Close");
         }
     }
 }
