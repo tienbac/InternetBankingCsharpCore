@@ -1,0 +1,11 @@
+d:\Documents\Visual Studio 2017\Projects\InternetBankingTeamNam\InternetBankingTeamNam\bin\Debug\netcoreapp2.0\InternetBankingTeamNam.deps.json
+d:\Documents\Visual Studio 2017\Projects\InternetBankingTeamNam\InternetBankingTeamNam\bin\Debug\netcoreapp2.0\InternetBankingTeamNam.runtimeconfig.json
+d:\Documents\Visual Studio 2017\Projects\InternetBankingTeamNam\InternetBankingTeamNam\bin\Debug\netcoreapp2.0\InternetBankingTeamNam.runtimeconfig.dev.json
+d:\Documents\Visual Studio 2017\Projects\InternetBankingTeamNam\InternetBankingTeamNam\bin\Debug\netcoreapp2.0\InternetBankingTeamNam.dll
+d:\Documents\Visual Studio 2017\Projects\InternetBankingTeamNam\InternetBankingTeamNam\bin\Debug\netcoreapp2.0\InternetBankingTeamNam.pdb
+d:\Documents\Visual Studio 2017\Projects\InternetBankingTeamNam\InternetBankingTeamNam\obj\Debug\netcoreapp2.0\InternetBankingTeamNam.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2017\Projects\InternetBankingTeamNam\InternetBankingTeamNam\obj\Debug\netcoreapp2.0\InternetBankingTeamNam.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\InternetBankingTeamNam\InternetBankingTeamNam\obj\Debug\netcoreapp2.0\InternetBankingTeamNam.AssemblyInfoInputs.cache
+d:\Documents\Visual Studio 2017\Projects\InternetBankingTeamNam\InternetBankingTeamNam\obj\Debug\netcoreapp2.0\InternetBankingTeamNam.AssemblyInfo.cs
+d:\Documents\Visual Studio 2017\Projects\InternetBankingTeamNam\InternetBankingTeamNam\obj\Debug\netcoreapp2.0\InternetBankingTeamNam.dll
+d:\Documents\Visual Studio 2017\Projects\InternetBankingTeamNam\InternetBankingTeamNam\obj\Debug\netcoreapp2.0\InternetBankingTeamNam.pdb
