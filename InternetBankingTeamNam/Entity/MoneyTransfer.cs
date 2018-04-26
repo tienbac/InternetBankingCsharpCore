@@ -54,5 +54,7 @@ namespace InternetBankingTeamNam.Entity
         public string Note { get => note; set => note = value; }
         public int IdSend { get => idSend; set => idSend = value; }
         public int IdRece { get => idRece; set => idRece = value; }
+
+
     }
 }
